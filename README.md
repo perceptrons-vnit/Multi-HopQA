@@ -8,3 +8,4 @@ Links
 5) https://github.com/gkiril/oie-resources
 6) https://github.com/dair-iitd/imojie
 7) https://github.com/malllabiisc/EmbedKGQA
+8) https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers
