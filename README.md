@@ -7,3 +7,4 @@ Links
 4) https://github.com/dair-iitd/OpenIE-standalone
 5) https://github.com/gkiril/oie-resources
 6) https://github.com/dair-iitd/imojie
+7) https://github.com/malllabiisc/EmbedKGQA
