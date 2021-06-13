@@ -6,3 +6,4 @@ Links
 3) https://allenai.org/data/tuple-ie
 4) https://github.com/dair-iitd/OpenIE-standalone
 5) https://github.com/gkiril/oie-resources
+6) https://github.com/dair-iitd/imojie
