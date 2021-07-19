@@ -15,3 +15,5 @@ Links
 
 More codes for QA
 https://paperswithcode.com/dataset/metaqa
+
+https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths
