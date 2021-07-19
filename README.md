@@ -11,3 +11,7 @@ Links
 8) https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers
 9) https://github.com/UKPLab/coling2018-graph-neural-networks-question-answering
 10) https://github.com/debayan/pnel
+
+
+More codes for QA
+https://paperswithcode.com/dataset/metaqa
